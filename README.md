@@ -13,7 +13,6 @@
 Software Engineer focused on high-quality backend engineering, database optimization, and elegant full-stack applications. Turning complex server-side logic into seamless user experiences
 
 🔭 &nbsp;I'm currently working on **Building robust RESTful APIs and optimizing database performance**  
-🤔 &nbsp;I'm looking for help with **developer CLI tools and database optimization plugins**  
 💬 &nbsp;Ask me about **React, Node.js, Python/Django, API design, and database optimization**
 
 ### 🛠️ Tech Stack
