@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Building%20robust%20backend%20architectures%20and%20sleek%20user%20interfaces;I%20engineer%20scalable%20backend%20microservices%2C%20optimize%20complex%20databases%2C%20and%20craft%20seamless%20end-to-end%20digital%20experiences" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Building%20robust%20backend%20architectures%20and%20sleek%20user%20interfaces;I%20engineer%20scalable%20backend%20microservices%2C%20optimize%20complex%20databases" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
