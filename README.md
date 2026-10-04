@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Building%20robust%20backend%20architectures%20and%20sleek%20user%20interfaces;I%20engineer%20scalable%20backend%20microservices%2C%20optimize%20complex%20databases" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Building%20robust%20backend%20architectures%20and%20sleek%20user%20interfaces;I%20engineer%20scalable%20backend%20microservices%2C%20optimize%20complex%20databases" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -56,7 +56,7 @@ Software Engineer focused on high-quality backend engineering, database optimiza
   <a href="https://www.linkedin.com/in/benedict-guthiga-a6923933b?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Itsme_muriithi?t=9sDkdaHHDk9Di5KI2Nzw1A&amp;s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/itsme.muriithi?igsh=MWg1eGU0YXY2aGk4Zw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://guthiga-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tiktok.com/@tiktok.com/@itsme.muriithi254"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="mailto:benedictguthiga@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
